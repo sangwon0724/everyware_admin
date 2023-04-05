@@ -1,1 +1,1 @@
-# every-ware-admin
+# everyware-admin
